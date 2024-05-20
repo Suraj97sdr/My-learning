@@ -1,4 +1,4 @@
 # My-learning 
 This is my first Git Repository
 <br>
-Author-Suraj
+Author-Suraj Maurya
